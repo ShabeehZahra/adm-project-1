@@ -1,4 +1,5 @@
 #import libraries
+pip install wordcloud
 import time
 from wordcloud import WordCloud
 from sklearn.svm import LinearSVC
